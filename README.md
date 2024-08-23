@@ -3,6 +3,8 @@
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilmar_a._junior/?next=%2F)
 [![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S3TN4s)
+
+
  🖥️ Ciência da Computação - UNOESC   
  📖 Ingles Intermediário-Avançado
 
