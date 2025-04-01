@@ -6,7 +6,7 @@
 
 
  🖥️ Ciência da Computação - UNOESC   
- 📖 Ingles Intermediário-Avançado
+ 📖 Ingles Alto-Avançado
 
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juninhojuninhoats@gmail.com)
