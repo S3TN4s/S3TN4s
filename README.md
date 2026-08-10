@@ -14,15 +14,6 @@
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S3TN4s&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3TN4s&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
----
-
 ### 📬 Contato & Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilmar-a-junior-7978b724a/)
